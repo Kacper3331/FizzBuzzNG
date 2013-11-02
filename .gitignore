@@ -1,0 +1,6 @@
+.classpath
+.git
+.project
+.settings
+\bin
+\test-output
